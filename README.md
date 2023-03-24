@@ -1,6 +1,15 @@
-# Nuxt 3 + Typescript + Eslint + Prettier - Base Only
+# Nuxt 3 - Base Only
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+**With:**
+
+- Nuxt 3
+- Vuetify 3
+- Typescript
+- Eslint
+- Prettier
+
+To learn more about Nuxt 3 [click here](https://nuxt.com/docs/getting-started/introduction)
+and to learn more about Vuetify 3 [click here](https://vuetifyjs.com/en/introduction/why-vuetify/).
 
 ## Setup
 
